@@ -1,0 +1,8 @@
+print(float(16/(float(3))))
+print(format(123456,','))
+print(5**3)
+print(''' "hello" ,"hi" ''')
+print('what\'s \'your name')
+print("hello,\"my name is naveen.\"")
+print(format('hello','<30'))
+print(20==30)
